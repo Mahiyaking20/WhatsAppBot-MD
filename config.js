@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['0','94761091578']
 //-------------
 
 
@@ -70,22 +70,22 @@ global.APIKeys = {
 
    //---------------------------------------------------------------------
 
-   global.worktype = 'private'
+   global.worktype = 'public'
 
    //---------------------------------------------------------------------
    
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['94761091578']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['94761091578']
 
    //---------------------------------------------------------------------
    
-   global.packname = 'ＡＬＩＥＮ' 
+   global.packname = '𝐌𝐢𝐡𝐢𝐫𝐮𝐤 𝐀𝐥𝐩𝐡𝐚' 
    //-------------
-   global.author = 'ＡＬＦＡ'
+   global.author = '𝐌𝐢𝐡𝐢𝐫𝐮𝐤 𝐃𝐢𝐥𝐬𝐡𝐚𝐧'
 
    //---------------------------------------------------------------------
 
@@ -193,17 +193,17 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 //-------------
 global.sp = '𒆜'
 //-------------
-global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.devname = '𝐌𝐢𝐡𝐢𝐫𝐮𝐤 𝐗 𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐒'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['94761091578']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
 global.listicon = '✩' 
 //-------------
-global.wm = 'ＡＬＩＥＮ ＡＬＦＡ' 
+global.wm = '𝐌𝐗 𝐃𝐈𝐋𝐒𝐇𝐀𝐍' 
 //-------------
-global.botname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.botname = '𝐌𝐈𝐇𝐈𝐑𝐔𝐊 𝐗 𝐀𝐋𝐏𝐇𝐀'
 //-------------
 global.icon = '✩' 
 //-------------
@@ -215,9 +215,9 @@ global.github = 'https://github.com/Alien-alfa/'
 //-------------
 global.insta = 'https://www.instagram.com/alienalfa/' 
 //-------------
-global.linkname = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'
+global.linkname = '𝙼𝚒𝚑𝚒𝚛𝚞𝚔 𝙳𝚒𝚕𝚜𝚑𝚊𝚗'
 //-------------
-global.mainfooter = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' 
+global.mainfooter = '𝐌𝐢𝐡𝐢𝐫𝐮𝐤 𝐃𝐢𝐥𝐬𝐡𝐚𝐧' 
 //-------------
 global.herokuapi = '' 
 //-------------
@@ -232,9 +232,9 @@ global.herokuapp = ''
 //-------------
 global.welcomeactive =  true
 //-------------
-global.alivemess = false
+global.alivemess = true
 //-------------
-global.aliveimage = false
+global.aliveimage = true
 //-------------
 global.speedmode =  'active'
 //-------------
